@@ -1,10 +1,13 @@
 {
-  "name": "1zE1agkXjYmnv0oPJkMgkqAg0ffeFxvmIj3uienX5NqW9szJYz",
+  "name": "หวยหุ้นแม่นๆ สรุปว่าอะไร - เว็บใหม่ uwin789 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.50",
   "description": "หวยหุ้นแม่นๆ สอนวิธีการเล่นหวยหุ้นอื่นๆแบบละเอียดธนาคารกดเลือกธนาคารที่ต้องการจะใช้ ก่อน หวยหุ้นแม่นๆ Uwin789 ยูวิน หวยออนไลน์ มีหวยทุกชนิด ฝาก-ถอน ชื่อบัญ",
   "repository": "https://github.com/gullibles-02/outdoor-07",
-  "keywords": ["หวยหุ้นแม่นๆ","หวยหุ้นแม่นๆ Uwin789"],
+  "keywords": [
+    "หวยหุ้นแม่นๆ",
+    "หวยหุ้นแม่นๆ Uwin789"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
