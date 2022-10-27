@@ -1,10 +1,13 @@
 {
-  "name": "2bv5997vUmR57b0GGw2LkxQrMSidV86nheebqH8gulH0tEcqGY",
+  "name": "ดัชนีนิเคอิ แตกต่างกันอย่างไร - เว็บใหม่ huaydee 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.28",
   "description": "ดัชนีนิเคอิ ช่องดูบอลสด ของ ดัชนีนิเคอิ Huaydee หวยออนไลน์ อันดับหนึ่ง เบิร์นลี่ย์ ดัชนีนิเคอิ เชลซี ช่องดูบอลสด เชลซี ดูบอลสด เบิร์นลี่ย์ Vs เชลซี ดูบอลสด",
   "repository": "https://github.com/gullibles-02/outdoor-07",
-  "keywords": ["ดัชนีนิเคอิ","ดัชนีนิเคอิ Huaydee"],
+  "keywords": [
+    "ดัชนีนิเคอิ",
+    "ดัชนีนิเคอิ Huaydee"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
