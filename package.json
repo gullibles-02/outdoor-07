@@ -1,10 +1,13 @@
 {
-  "name": "5tf5vvZzEul3cVkSrmIvFYhKlphqlbgyRmCKIH8uq0AfZifWLp",
+  "name": "เว็บโชค77 เลือกยังไง - เว็บใหม่ 999lucky 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.16",
   "description": "เว็บโชค77 สำหรับสถิติผลหวยฮานอยของเดือนนี้ ดั่ง เว็บโชค77 ที่ 999Lucky เว็บหวยออนไลน์ อันดับหนึ่ง สมาชิกสามารถนำเลขที่เคยออกมาแล้ว ไปวิเคราะห์เป็นแนวทางหาเ",
   "repository": "https://github.com/gullibles-02/outdoor-07",
-  "keywords": ["เว็บโชค77","เว็บโชค77 999Lucky"],
+  "keywords": [
+    "เว็บโชค77",
+    "เว็บโชค77 999Lucky"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
