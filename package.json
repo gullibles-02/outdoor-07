@@ -1,10 +1,13 @@
 {
-  "name": "W6YiRQH6uQ5KK2bkqYHMt5FQT0oTqGSaFqOQP34xRUBBbQo1N2",
+  "name": "ซื้อหวยมังกรฟ้า ทำไมถึงนิยม - เว็บใหม่ huay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.81",
   "description": "ซื้อหวยมังกรฟ้า ผลหวยพม่า ครั้น ซื้อหวยมังกรฟ้า Huay หวย หวยออนไลน์ มีหวยทุกชนิด 280365 ตรวจหวยพม่างวดล่าสุด ประจำวันที่ 28 มีนาคม 2566 ทุกท่านสามารถเข้ามา",
   "repository": "https://github.com/gullibles-02/outdoor-07",
-  "keywords": ["ซื้อหวยมังกรฟ้า","ซื้อหวยมังกรฟ้า Huay"],
+  "keywords": [
+    "ซื้อหวยมังกรฟ้า",
+    "ซื้อหวยมังกรฟ้า Huay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
