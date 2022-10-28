@@ -1,10 +1,13 @@
 {
-  "name": "YgoOHVPvam1CaVFtoucKt8Pz8hEyYFE5MwNllU9ki0Tmf9JZON",
+  "name": "กราฟหุ้นรัสเซีย แตกต่างกันอย่างไร - เว็บใหม่ masurebet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.57",
   "description": "กราฟหุ้นรัสเซีย ผลการออกรางวัล อย่างไรก็ดี กราฟหุ้นรัสเซีย Masurebet มาชัวร์เบท หวยออนไลน์ มีหวยทุกชนิด หวยฮานอย ( Xổ Số Hà NộI ) ทั้ง 3 แบบ ฮานอย ปกติฮานอ",
   "repository": "https://github.com/gullibles-02/outdoor-07",
-  "keywords": ["กราฟหุ้นรัสเซีย","กราฟหุ้นรัสเซีย Masurebet"],
+  "keywords": [
+    "กราฟหุ้นรัสเซีย",
+    "กราฟหุ้นรัสเซีย Masurebet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
