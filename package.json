@@ -1,10 +1,16 @@
 {
-  "name": "Bmb31ujeYjthXE3xfFjlz9xwKB2z39Pt9HiKDkdU8t30xDS5wu",
+  "name": "สิงคโปร์ ล่าสุด ดูที่ไหน - เว็บใหม่ huaysod 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.69",
   "description": "สิงคโปร์ ล่าสุด หวยสูตรวีไอพี แต่ว่า สิงคโปร์ ล่าสุด ที่ Huaysod เว็บหวยออนไลน์ อันดับหนึ่ง 1762 ชุดเลขท้าย 3 ตัว แนวทางหวยรัฐบาลงวดนี้ ดูหวยสูตรสีไอพี 100",
   "repository": "https://github.com/gullibles-02/outdoor-07",
-  "keywords": ["สิงคโปร์ ล่าสุด","สิงคโปร์","ล่าสุด","สิงคโปร์ Huaysod","ล่าสุด Huaysod"],
+  "keywords": [
+    "สิงคโปร์ ล่าสุด",
+    "สิงคโปร์",
+    "ล่าสุด",
+    "สิงคโปร์ Huaysod",
+    "ล่าสุด Huaysod"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
