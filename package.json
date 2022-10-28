@@ -1,10 +1,16 @@
 {
-  "name": "yOcywUZFFMsjiTdYmhrLhXbPkMIQ0CypWC1zfqPutHgQtko1TK",
+  "name": "รางวัลที่1มีกี่ใบ pantip มีคำตอบ - เว็บใหม่ settee bet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.78",
   "description": "รางวัลที่1มีกี่ใบ pantip หมายเหตุ กะ รางวัลที่1มีกี่ใบ pantip Settee Bet เศรษฐีเบท หวยออนไลน์ มีหวยทุกชนิด หวยมาเลย์ ( Magnum 4d 万能万字 ) หรือ หวยมาเลเซีย เป",
   "repository": "https://github.com/gullibles-02/outdoor-07",
-  "keywords": ["รางวัลที่1มีกี่ใบ PANTIP","รางวัลที่1มีกี่ใบ","PANTIP","รางวัลที่1มีกี่ใบ Settee Bet","PANTIP Settee Bet"],
+  "keywords": [
+    "รางวัลที่1มีกี่ใบ PANTIP",
+    "รางวัลที่1มีกี่ใบ",
+    "PANTIP",
+    "รางวัลที่1มีกี่ใบ Settee Bet",
+    "PANTIP Settee Bet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
