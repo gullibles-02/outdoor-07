@@ -1,10 +1,20 @@
 {
-  "name": "3PgQtBcuhrPw6psrfU0PIY0a1olIWJ7daW6OVGPaBhM8Qa01Fn",
+  "name": "กลุ่มหวยหุ้น นิ เค อิ แตกต่างกันอย่างไร - เว็บใหม่ huaysod 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.68",
   "description": "กลุ่มหวยหุ้น นิ เค อิ ผลการออกรางวัล เท่ากับ กลุ่มหวยหุ้น นิ เค อิ Huaysod หวยออนไลน์ อันดับหนึ่ง หวยฮานอย ( Xổ Số Hà NộI ) หรือ หวยเวียดนาม ( Xổ Số ViệT N",
   "repository": "https://github.com/gullibles-02/outdoor-07",
-  "keywords": ["กลุ่มหวยหุ้น นิ เค อิ","กลุ่มหวยหุ้น","นิ","เค","อิ","กลุ่มหวยหุ้น Huaysod","นิ Huaysod","เค Huaysod","อิ Huaysod"],
+  "keywords": [
+    "กลุ่มหวยหุ้น นิ เค อิ",
+    "กลุ่มหวยหุ้น",
+    "นิ",
+    "เค",
+    "อิ",
+    "กลุ่มหวยหุ้น Huaysod",
+    "นิ Huaysod",
+    "เค Huaysod",
+    "อิ Huaysod"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
