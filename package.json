@@ -1,16 +1,10 @@
 {
-  "name": "กองสลากพลัส line ที่ไหน - เว็บใหม่ huaydee 2023 ล่าสุด",
+  "name": "1aup1N53VYEcVSUE7IWq99EW9obFnRCvB9RSbhhlNXR7RdcxjT",
   "theme": "syntax",
   "version": "1.0.60",
   "description": "กองสลากพลัส line เลขเด็ด ใน กองสลากพลัส line ที่ Huaydee เว็บหวยออนไลน์ อันดับหนึ่ง ในงวดประจำวันอาทิตย์ที่ 16 มิถุนายน 2566 ขอนำเสนอชุดเลขผลงานดีจาก หวยยา",
   "repository": "https://github.com/gullibles-02/outdoor-07",
-  "keywords": [
-    "กองสลากพลัส LINE",
-    "กองสลากพลัส",
-    "LINE",
-    "กองสลากพลัส Huaydee",
-    "LINE Huaydee"
-  ],
+  "keywords": ["กองสลากพลัส LINE","กองสลากพลัส","LINE","กองสลากพลัส Huaydee","LINE Huaydee"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
