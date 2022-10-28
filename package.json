@@ -1,10 +1,18 @@
 {
-  "name": "fBRtbdSL7Tuvmd01Cv7EngmVHeOrkHzOwZGJG6DXoJzyBw7CHM",
+  "name": "หวย 1000x1000 คือ สมัครยังไง - เว็บใหม่ huaylike 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.58",
   "description": "หวย 1000x1000 คือ หวยออนไลน์ ครั้น หวย 1000x1000 คือ ที่ Huaylike เว็บหวยออนไลน์ อันดับหนึ่ง Lotto ตอนนี้นอกจากสลากกินแบ่งไทยยอดนิยมมานานแล้ว หวยออนไลน์ 24",
   "repository": "https://github.com/gullibles-02/outdoor-07",
-  "keywords": ["หวย 1000X1000 คือ","หวย","1000X1000","คือ","หวย Huaylike","1000X1000 Huaylike","คือ Huaylike"],
+  "keywords": [
+    "หวย 1000X1000 คือ",
+    "หวย",
+    "1000X1000",
+    "คือ",
+    "หวย Huaylike",
+    "1000X1000 Huaylike",
+    "คือ Huaylike"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
